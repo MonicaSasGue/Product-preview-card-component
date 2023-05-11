@@ -49,7 +49,9 @@
   <h2>The Challenge</h2>
   <p>An HTML and CSS challenge with responsive design.</p>
   <p>The users should be able to:
+    <br />
     - View the optimal layout depending on their device's screen size
+    <br />
     - See hover and focus states for interactive elements</p>
   </ br>
   <p>End date: May 2023</p>
