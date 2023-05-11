@@ -11,7 +11,7 @@
     <br />
     <a href="https://magnificent-croquembouche-079066.netlify.app" target="_blank">View Demo</a>
     &nbsp;·&nbsp;
-    <a href="https://github.com/MonicaSasGue/Product-preview-card-component.git" target="_blank">Report Feedback</a>
+    <a href="https://github.com/MonicaSasGue/Product-preview-card-component.git" target="_blank">View Code</a>
   </p>
 </div>
 
